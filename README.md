@@ -7,7 +7,7 @@ This project was prepared for the course Trends in business analytics I, Prague 
 Collaborators:
 - Maria Babak,
 - [Petr Hollmann](https://github.com/phollmann1997/),
-- Tatiana Kliueva
+- [Tatiana Kliueva](https://github.com/tatianaklyueva/)
 - Tomáš Koťara,
 - Natalie Musilová,
 - Manh Tuan Nguyen.
