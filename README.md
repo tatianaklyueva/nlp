@@ -9,7 +9,7 @@ Collaborators:
 - [Petr Hollmann](https://github.com/phollmann1997/),
 - [Tatiana Kliueva](https://github.com/tatianaklyueva/)
 - Tomáš Koťara,
-- Natalie Musilová,
+- [Natalie Musilová](https://github.com/NatalieMusilova),
 - Manh Tuan Nguyen.
 
 Notebook is based on:
