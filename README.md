@@ -1,5 +1,5 @@
 # nlp
-Project use NLP model for the sentiment analysis of client reviews, based on the critical points chosen by user.
+Project uses NLP model for the sentiment analysis of client reviews, based on the critical points chosen by user.
 
 # Reviews sentiment analysis
 This project was prepared for the course Trends in business analytics I, Prague University of Economics and Business.
