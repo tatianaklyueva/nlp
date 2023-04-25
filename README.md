@@ -5,7 +5,7 @@ Project uses NLP model for the sentiment analysis of client reviews, based on th
 This project was prepared for the course Trends in business analytics I, Prague University of Economics and Business.
 
 Collaborators:
-- Maria Babak[https://github.com/MariaBabak2110],
+- [Maria Babak](https://github.com/MariaBabak2110),
 - [Petr Hollmann](https://github.com/phollmann1997/),
 - [Tatiana Kliueva](https://github.com/tatianaklyueva/)
 - Tomáš Koťara,
